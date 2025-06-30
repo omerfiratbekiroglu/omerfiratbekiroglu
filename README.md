@@ -22,14 +22,6 @@
 - **DevOps & Cloud**: Docker, AWS (EC2, S3, Aurora, Fargate, SNS/SQS), GitHub Actions
 - **Other**: OpenCV, PyTorch, Pandas, REST APIs, WebSockets
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerfiratbekiroglu&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfiratbekiroglu&layout=compact&theme=radical" alt="Top languages"/>
-</p>
-
 ## 📬 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/omerfiratbekiroglu/)
 ---
