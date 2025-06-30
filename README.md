@@ -23,7 +23,7 @@
 - **Other**: OpenCV, PyTorch, Pandas, REST APIs, WebSockets
 
 ## 📬 How to Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/omerfiratbekiroglu/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/%C3%B6mer-f%C4%B1rat-bekiro%C4%9Flu-767421254/)
 ---
 
 > ⚡ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
