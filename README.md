@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3866,50:0e9594,100:38ef7d&height=200&section=header&text=%C3%96mer%20F%C4%B1rat%20Bekiro%C4%9Flu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Bilkent%20CS&descAlignY=52&descSize=18" />
 
-<a href="https://github.com/omerfiratbekiroglu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+Biosys+Biomedical;IoT+%C2%B7+Embedded+%C2%B7+Backend+%C2%B7+Frontend+%C2%B7+Cloud;" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=omerfiratbekiroglu&label=Profile%20Views&color=6f42c1&style=for-the-badge" alt="profile views" />
@@ -14,8 +10,6 @@
 </div>
 
 ---
-
-## 👋 About Me
 
 **Software Engineer** at Biosys Biomedical &nbsp;·&nbsp; **B.S. Computer Science**, Bilkent University &nbsp;·&nbsp; Ankara, Turkey
 
@@ -27,7 +21,7 @@ the data readable on the other side.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
   <tr>
@@ -107,7 +101,7 @@ the data readable on the other side.
 
 ---
 
-## 📬 Reach Me
+## Reach Me
 
 <div align="center">
 
@@ -120,19 +114,5 @@ the data readable on the other side.
 <a href="https://github.com/omerfiratbekiroglu">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-> *"Code is like humor. When you have to explain it, it's bad."* — **Cory House**
-
-<br/>
-
-**Thanks for visiting! 🙌**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3866,50:0e9594,100:38ef7d&height=120&section=footer" />
 
 </div>
